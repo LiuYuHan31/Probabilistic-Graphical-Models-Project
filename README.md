@@ -1,10 +1,5 @@
 # Probabilistic-Graphical-Models-Project
-1.
-```
-cd dataset/swda/
-unzip swda.zip
-```
-2.
+
 ```
 python main.py
 ```
