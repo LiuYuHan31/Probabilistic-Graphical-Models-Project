@@ -1,0 +1,1 @@
+{"corpus_name": "swda", "encoder_type": "lstm", "mode": "vanilla_crf-spk", "batch_size": 8, "dropout_rate": 0.2, "crf_lr_multiplier": 1, "best_epoch": 10, "val_loss": 99.91245869227818, "unigram_accuracy": 0.7828475871954133, "bigram_accuracy": 0.6402687784977202, "trigram_accuracy": 0.53351012536162}
