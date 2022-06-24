@@ -1,16 +1,12 @@
-# DA-Classification
+# Probabilistic-Graphical-Models-Project
 1.
-```
-git clone --recurse-submodules https://guokan_shang@bitbucket.org/guokan_shang/da-classification.git
-```
-2.
 ```
 cd dataset/swda/
 unzip swda.zip
 ```
-3.
+2.
 ```
-ipython main.py
+python main.py
 ```
 requirements:
 ```
@@ -22,4 +18,4 @@ keras-lr-multiplier                0.8.0
 gensim                             3.7.1      
 scikit-learn                       0.19.1     
 ```
-# Probabilistic-Graphical-Models-Project
+
